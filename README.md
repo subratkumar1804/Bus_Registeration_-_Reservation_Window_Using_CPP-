@@ -7,7 +7,7 @@ In this project we can register new buses on various routes with flexible timing
 and can check availability of different buses on different routes.
 
 --------------------------------------------------
-##Software Requirements:
+##Software Requirement:
 
 1.Dev C++(Application installed on windows)
 download link of this application on windows:https://bloodshed-dev-c.en.softonic.com/
